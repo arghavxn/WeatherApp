@@ -2,6 +2,7 @@
 
 ## Description
 This Weather App is a Java application with a JavaFX GUI that allows users to fetch and display current weather information for a specified city. It utilizes the OpenWeatherMap API to retrieve real-time weather data.
+![weather](https://github.com/user-attachments/assets/d05e0f6c-bc35-4cfb-8d9d-c8e1a9cdf861)
 
 ## Features
 - User-friendly graphical interface
